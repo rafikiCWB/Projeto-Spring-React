@@ -17,7 +17,7 @@ function App() {
                         <h5 className="text-center text-secondary">Taxa de sucesso (%)</h5>
                         <BarChart/>
                     </div>
-
+                    
                     <div className="col-sm-6">
                         <h5 className="text-center text-secondary">Todas as vendas</h5>
                         <DonutChart/>
@@ -26,6 +26,7 @@ function App() {
 
                 <div className="py-3">
                     <h2 className="text-primary">Todas vendas</h2>
+                 
                 </div>
 
                 <DataTable />
