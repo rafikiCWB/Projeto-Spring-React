@@ -17,9 +17,9 @@ public class Sale {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private Integer visited;
-    private Integer deals;
-    private Double amount;
+    private Integer visited; //visitados
+    private Integer deals;  // promoçoes
+    private Double amount;  //resultado/quantidade
     private LocalDate date;
 
     @ManyToOne
