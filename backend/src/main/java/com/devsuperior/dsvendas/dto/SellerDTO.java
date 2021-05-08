@@ -5,7 +5,7 @@ import javassist.SerialVersionUID;
 
 import java.io.Serializable;
 
-public class SellerDTO implements Serializable {  //vendedor
+public class SellerDTO implements Serializable {
     private static final Long SerialVersionUID = 1L;
 
     private Long id;
