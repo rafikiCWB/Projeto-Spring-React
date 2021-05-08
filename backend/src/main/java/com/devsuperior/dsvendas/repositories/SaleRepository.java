@@ -5,7 +5,6 @@ import com.devsuperior.dsvendas.entities.Sale;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import com.devsuperior.dsvendas.dto.SaleSumDTO;
-import com.devsuperior.dsvendas.dto.SaleSuccessDTO;
 
 import java.util.List;
 

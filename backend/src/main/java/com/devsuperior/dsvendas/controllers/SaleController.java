@@ -3,7 +3,6 @@ package com.devsuperior.dsvendas.controllers;
 import com.devsuperior.dsvendas.dto.SaleDTO;
 import com.devsuperior.dsvendas.dto.SaleSuccessDTO;
 import com.devsuperior.dsvendas.dto.SaleSumDTO;
-import com.devsuperior.dsvendas.dto.SellerDTO;
 import com.devsuperior.dsvendas.service.SaleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
